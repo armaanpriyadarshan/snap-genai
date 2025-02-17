@@ -11,6 +11,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        nunito: ["var(--font-nunito)"],
+        sourceSans: ["var(--font-source-sans)"],
+      },
     },
   },
   plugins: [],
